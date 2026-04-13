@@ -33,6 +33,31 @@ The app embraces an intuitive, 7-tab navigation system via a unique bottom wave 
 6. 🧰 **Tools:** Easy GST and standard calculations.
 7. 👤 **Profile:** Settings, language, theme (Dark/Light/System), and sync management.
 
+## 📸 App Screenshots
+
+| Home Dashboard | Daily Hisaab | Ledger (Udhaar) | Inventory |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/home.png" width="200"> | <img src="assets/screenshots/transactions.png" width="200"> | <img src="assets/screenshots/ledger.png" width="200"> | <img src="assets/screenshots/inventory.png" width="200"> |
+
+| Reports & Charts | Smart Tools | Dark Theme UI | Profile & Settings |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/reports.png" width="200"> | <img src="assets/screenshots/tools.png" width="200"> | <img src="assets/screenshots/dark_theme.png" width="200"> | <img src="assets/screenshots/profile.png" width="200"> |
+
+
+
+
+![sell screan](https://github.com/user-attachments/assets/a086ad4f-0a8c-42fc-9080-d190a4d283e8)
+![new product screan](https://github.com/user-attachments/assets/f660417a-9c49-4934-bc03-d0cd7185619a)
+![ledger screan](https://github.com/user-attachments/assets/628dd648-c7b3-42f2-982f-9bd9c7a22edb)
+![home screan](https://github.com/user-attachments/assets/9db37a4c-4a56-4ef4-93a2-698659a6feab)
+![add screan](https://github.com/user-attachments/assets/d5d4d63a-161e-4dc0-9596-6cd3435c3480)
+![tools screan](https://github.com/user-attachments/assets/967fd890-e9ba-4e48-8453-0bfea6b86438)
+![splash screan](https://github.com/user-attachments/assets/2d58d5ce-cb96-426d-95c2-38a868fbbc77)
+![setting screan](https://github.com/user-attachments/assets/fe7c1c4f-02db-4356-a325-010b330572a9)
+
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
